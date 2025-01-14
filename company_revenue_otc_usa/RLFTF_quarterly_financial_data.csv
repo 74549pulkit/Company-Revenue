@@ -1,0 +1,42 @@
+Fiscal Quarter,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,H2 2019,H1 2019,Currency,Fiscal_Year_period
+Period Ending,"Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020","Dec '19 Dec 31, 2019","Jun '19 Jun 30, 2019",,
+Operating Revenue,"3,010,000","3,023,000","2,839,000","3,242,000","3,321,000",-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+Revenue,"3,010,000","3,023,000","2,839,000","3,242,000","3,321,000",-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+Revenue Growth (YoY),6.023%,-6.755%,-14.514%,-,-,-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+Cost of Revenue,"1,051,000","869,000","581,000","669,000","750,000",-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+Gross Profit,"1,959,000","2,154,000","2,258,000","2,573,000","2,571,000",-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+"Selling, General & Admin","8,266,000","11,163,000","13,857,000","10,195,000","8,632,000","6,504,000","1,960,000","3,505,000","495,000","420,000",Financials in CHF,Fiscal year is January - December
+Research & Development,"395,000","933,000","1,756,000","10,637,000","10,717,000","8,307,000","13,672,000",-,-,-,Financials in CHF,Fiscal year is January - December
+Other Operating Expenses,"-72,000","-50,000","-466,000","-47,000","68,000","543,000","226,000",-,"31,000",-,Financials in CHF,Fiscal year is January - December
+Operating Expenses,"10,203,000","13,750,000","16,974,000","22,818,000","21,453,000","15,354,000","15,858,000","3,505,000","526,000","421,000",Financials in CHF,Fiscal year is January - December
+Operating Income,"-8,244,000","-11,596,000","-14,716,000","-20,245,000","-18,882,000","-15,354,000","-15,858,000","-3,505,000","-526,000","-421,000",Financials in CHF,Fiscal year is January - December
+Interest Expense,"-14,000","-13,000","-21,000","-105,000","-156,000","-61,000","-44,000","-56,000","-111,000","-37,000",Financials in CHF,Fiscal year is January - December
+Interest & Investment Income,"93,000",-,"6,000","12,000",-,"63,000","5,000","2,000",-,"14,000",Financials in CHF,Fiscal year is January - December
+Currency Exchange Gain (Loss),"258,000","-323,000","-524,000","150,000","-7,000","64,000","-370,000","-26,000","38,000",-,Financials in CHF,Fiscal year is January - December
+Other Non Operating Income (Expenses),"-419,000","-438,000","-906,000","-888,000","-881,000","-216,000","1,000","-47,000","-4,000",-,Financials in CHF,Fiscal year is January - December
+EBT Excluding Unusual Items,"-8,326,000","-12,370,000","-16,161,000","-21,076,000","-19,926,000","-15,504,000","-16,266,000","-3,632,000","-603,000","-444,000",Financials in CHF,Fiscal year is January - December
+Merger & Restructuring Charges,-,-,-,-,"-1,100,000",-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+Impairment of Goodwill,-,"-6,017,000","-1,640,000",-,-,-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+Gain (Loss) on Sale of Investments,-,-,-,"453,000",-,"-54,000","-277,000","-918,000",-,-,Financials in CHF,Fiscal year is January - December
+Gain (Loss) on Sale of Assets,"125,000",-,-,-,-,-,"211,000","3,171,000",-,-,Financials in CHF,Fiscal year is January - December
+Asset Writedown,"-40,161,000","-49,717,000","-16,558,000","-8,226,000",-,-,-,"11,200,000","-11,200,000",-,Financials in CHF,Fiscal year is January - December
+Legal Settlements,-,-,-,-,-,-,-,-,"155,000",-,Financials in CHF,Fiscal year is January - December
+Other Unusual Items,"820,000","3,962,000","8,152,000","740,000","168,000","891,000","250,000",-,"42,000","-112,000",Financials in CHF,Fiscal year is January - December
+Pretax Income,"-47,542,000","-64,142,000","-26,207,000","-28,109,000","-20,858,000","-14,667,000","-16,082,000","9,821,000","-11,606,000","-556,000",Financials in CHF,Fiscal year is January - December
+Income Tax Expense,"-5,860,000","-7,643,000","-1,917,000","-1,609,000","-831,000","11,000","-3,000","1,570,000","-4,702,000",-,Financials in CHF,Fiscal year is January - December
+Net Income,"-41,682,000","-56,499,000","-24,290,000","-26,500,000","-20,027,000","-14,678,000","-16,079,000","8,251,000","-6,904,000","-556,000",Financials in CHF,Fiscal year is January - December
+Net Income to Common,"-41,682,000","-56,499,000","-24,290,000","-26,500,000","-20,027,000","-14,678,000","-16,079,000","8,251,000","-6,904,000","-556,000",Financials in CHF,Fiscal year is January - December
+Shares Outstanding (Basic),"12,422,928","11,082,004","10,751,815","10,388,747","9,626,604","8,338,744","6,694,834","5,371,280","5,286,596","5,232,660",Financials in CHF,Fiscal year is January - December
+Shares Outstanding (Diluted),"12,422,928","11,082,004","10,751,815","10,388,747","9,626,604","8,338,744","6,694,834","5,371,280","5,286,596","5,232,660",Financials in CHF,Fiscal year is January - December
+Shares Change (YoY),15.543%,6.673%,11.689%,24.584%,43.792%,55.247%,26.638%,2.649%,1.200%,4.095%,Financials in CHF,Fiscal year is January - December
+EPS (Basic),-3.355,-5.098,-2.259,-2.551,-2.080,-1.760,-2.402,1.536,-1.306,-0.106,Financials in CHF,Fiscal year is January - December
+EPS (Diluted),-3.355,-5.098,-2.259,-2.551,-2.080,-1.760,-2.402,1.536,-1.306,-0.106,Financials in CHF,Fiscal year is January - December
+Free Cash Flow,"-7,223,000","-10,835,000","-9,403,000","-14,756,000","-17,977,000","-17,741,000","-15,038,000","-3,216,000","-263,000","-465,000",Financials in CHF,Fiscal year is January - December
+Free Cash Flow Per Share,-0.581,-0.978,-0.875,-1.420,-1.867,-2.128,-2.246,-0.599,-0.050,-0.089,Financials in CHF,Fiscal year is January - December
+Operating Margin,-273.887%,-383.592%,-518.352%,-624.460%,-568.564%,-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+Profit Margin,-1384.784%,-1868.971%,-855.583%,-817.397%,-603.041%,-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+Free Cash Flow Margin,-239.967%,-358.419%,-331.208%,-455.151%,-541.313%,-,-,-,-,-,Financials in CHF,Fiscal year is January - December
+EBITDA,"-6,947,000","-10,112,000","-13,098,000","-18,395,000","-32,380,000",-,"-15,857,500","-3,504,500","-526,000","-420,000",Financials in CHF,Fiscal year is January - December
+D&A For EBITDA,"1,297,000","1,484,000","1,618,000","1,850,000",-,-,500,500,-,"1,000",Financials in CHF,Fiscal year is January - December
+EBIT,"-8,244,000","-11,596,000","-14,716,000","-20,245,000","-18,882,000","-15,354,000","-15,858,000","-3,505,000","-526,000","-421,000",Financials in CHF,Fiscal year is January - December
+Revenue as Reported,"3,239,000","3,089,000","3,305,000","3,805,000","3,601,000","891,000","273,000",-,-,-,Financials in CHF,Fiscal year is January - December

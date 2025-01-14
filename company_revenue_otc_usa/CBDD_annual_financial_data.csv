@@ -1,0 +1,30 @@
+Fiscal Year,TTM,FY 2013,FY 2010,FY 2009,FY 2008,Currency,Fiscal_Year_period
+Period Ending,"Dec '13 Dec 31, 2013","Dec '13 Dec 31, 2013","Dec '10 Dec 31, 2010","Dec '09 Dec 31, 2009","Dec '08 Dec 31, 2008",,
+Revenue,"42,500","42,500",-,-,-,Financials in USD,Fiscal year is January - December
+Cost of Revenue,"31,000","31,000",-,-,"23,233",Financials in USD,Fiscal year is January - December
+Gross Profit,"11,500","11,500",-,-,"-23,233",Financials in USD,Fiscal year is January - December
+"Selling, General & Admin","308,966","308,966","341,788","412,371","1,121,622",Financials in USD,Fiscal year is January - December
+Other Operating Expenses,-,-,-,-,50,Financials in USD,Fiscal year is January - December
+Operating Expenses,"308,966","308,966","341,788","412,371","1,163,800",Financials in USD,Fiscal year is January - December
+Operating Income,"-297,466","-297,466","-341,788","-412,371","-1,187,033",Financials in USD,Fiscal year is January - December
+Interest Expense,"-205,854","-205,854","-61,500","-61,500","-54,246",Financials in USD,Fiscal year is January - December
+Other Non Operating Income (Expenses),-,-,-,-,"-2,489",Financials in USD,Fiscal year is January - December
+EBT Excluding Unusual Items,"-503,320","-503,320","-403,288","-473,871","-1,243,768",Financials in USD,Fiscal year is January - December
+Gain (Loss) on Sale of Assets,-,-,-,"-1,558,726",-,Financials in USD,Fiscal year is January - December
+Pretax Income,"-503,320","-503,320","-403,288","-2,032,597","-1,243,768",Financials in USD,Fiscal year is January - December
+Net Income,"-503,320","-503,320","-403,288","-2,032,597","-1,243,768",Financials in USD,Fiscal year is January - December
+Net Income to Common,"-503,320","-503,320","-403,288","-2,032,597","-1,243,768",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Basic),"471,909,516","471,909,516","40,000,000","9,697,894","2,857,051",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Diluted),"471,909,516","471,909,516","40,000,000","9,697,894","2,857,051",Financials in USD,Fiscal year is January - December
+Shares Change (YoY),-,1079.774%,312.461%,239.437%,-,Financials in USD,Fiscal year is January - December
+EPS (Basic),-0.001,-0.001,-0.010,-0.210,-0.435,Financials in USD,Fiscal year is January - December
+EPS (Diluted),-0.001,-0.001,-0.010,-0.210,-0.435,Financials in USD,Fiscal year is January - December
+Free Cash Flow,"-87,104","-87,104","-304,031","-327,873",-,Financials in USD,Fiscal year is January - December
+Free Cash Flow Per Share,-0.000,-0.000,-0.008,-0.034,-,Financials in USD,Fiscal year is January - December
+Gross Margin,27.059%,27.059%,-,-,-,Financials in USD,Fiscal year is January - December
+Operating Margin,-699.920%,-699.920%,-,-,-,Financials in USD,Fiscal year is January - December
+Profit Margin,-1184.282%,-1184.282%,-,-,-,Financials in USD,Fiscal year is January - December
+Free Cash Flow Margin,-204.951%,-204.951%,-,-,-,Financials in USD,Fiscal year is January - December
+EBITDA,"-295,928","-295,928",-,"-328,116","-1,144,905",Financials in USD,Fiscal year is January - December
+D&A For EBITDA,"1,538","1,538",-,"84,255","42,128",Financials in USD,Fiscal year is January - December
+EBIT,"-297,466","-297,466","-341,788","-412,371","-1,187,033",Financials in USD,Fiscal year is January - December

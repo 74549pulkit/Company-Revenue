@@ -1,0 +1,34 @@
+Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,H2 2019,+2 Quarters,Currency,Fiscal_Year_period
+Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020","Dec '19 Dec 31, 2019",+2 Quarters,,
+Revenue,"560,000","522,000","448,000","329,000","629,000","789,000","818,000","776,000","807,000","780,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Revenue Growth (YoY),25.000%,58.663%,-28.776%,-58.302%,-23.105%,1.675%,1.363%,-0.513%,2.023%,-5.911%,Upgrade,Financials in EUR,Fiscal year is January - December
+Cost of Revenue,"93,000","164,000","219,000","-127,000","158,000","114,000","-3,000","-5,000","74,000","60,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Gross Profit,"467,000","358,000","229,000","456,000","471,000","675,000","821,000","781,000","733,000","720,000",Upgrade,Financials in EUR,Fiscal year is January - December
+"Selling, General & Admin","1,485,000","1,673,000","1,866,000","1,585,000","1,935,000","2,509,000","1,562,000","1,914,000","1,508,000","1,632,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Research & Development,"2,564,000","3,264,000","7,213,000","5,246,000","8,099,000","5,934,000","5,299,000","6,720,000","6,121,000","5,983,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Operating Expenses,"4,049,000","4,937,000","9,079,000","6,831,000","10,034,000","8,443,000","6,861,000","8,634,000","7,629,000","7,615,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Operating Income,"-3,582,000","-4,579,000","-8,850,000","-6,375,000","-9,563,000","-7,768,000","-6,040,000","-7,853,000","-6,896,000","-6,895,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Interest Expense,"-579,000","-580,000","-947,000","-135,000","-688,000","-2,000","-21,000","-74,000","-43,000","-42,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Interest & Investment Income,"38,000","122,000","99,000",-,-,-,-,-,-,"2,459,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Currency Exchange Gain (Loss),"-21,000","284,000","140,000","-250,000","384,000","27,000","-47,000","217,000","29,000","-55,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Other Non Operating Income (Expenses),"-325,000","3,187,000","-861,000","1,410,000","1,606,000","-2,029,000","1,453,000","-393,000","-24,000","-4,198,000",Upgrade,Financials in EUR,Fiscal year is January - December
+EBT Excluding Unusual Items,"-4,469,000","-1,566,000","-10,419,000","-5,350,000","-8,261,000","-9,772,000","-4,655,000","-8,103,000","-6,934,000","-8,731,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Other Unusual Items,-,-,-,"-1,123,000","1,123,000",-,-,"1,859,000","-1,859,000",-,Upgrade,Financials in EUR,Fiscal year is January - December
+Pretax Income,"-4,469,000","-1,566,000","-10,419,000","-6,473,000","-7,138,000","-9,772,000","-4,655,000","-6,244,000","-8,793,000","-8,731,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Income Tax Expense,-,"8,000","-8,000","1,000","3,000","36,000",-,-,"8,000",-,Upgrade,Financials in EUR,Fiscal year is January - December
+Net Income,"-4,469,000","-1,574,000","-10,411,000","-6,474,000","-7,141,000","-9,808,000","-4,655,000","-6,244,000","-8,801,000","-8,731,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Net Income to Common,"-4,469,000","-1,574,000","-10,411,000","-6,474,000","-7,141,000","-9,808,000","-4,655,000","-6,244,000","-8,801,000","-8,731,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Shares Outstanding (Basic),"51,686,562","51,752,897","47,576,913","47,153,923","47,124,123","48,202,513","46,839,187","49,587,969","38,863,395","40,992,945",Upgrade,Financials in EUR,Fiscal year is January - December
+Shares Outstanding (Diluted),"51,686,562","51,752,897","47,576,913","47,153,923","47,124,123","48,202,513","46,839,187","49,587,969","38,863,395","40,992,945",Upgrade,Financials in EUR,Fiscal year is January - December
+Shares Change (YoY),8.638%,9.753%,0.961%,-2.175%,0.608%,-2.794%,20.523%,20.967%,2.801%,8.488%,Upgrade,Financials in EUR,Fiscal year is January - December
+EPS (Basic),-0.086,-0.030,-0.219,-0.137,-0.152,-0.203,-0.099,-0.126,-0.226,-0.213,Upgrade,Financials in EUR,Fiscal year is January - December
+EPS (Diluted),-0.086,-0.030,-0.220,-0.140,-0.152,-0.203,-0.100,-0.126,-0.230,-0.215,Upgrade,Financials in EUR,Fiscal year is January - December
+Free Cash Flow,"3,230,000","-7,723,000","-9,493,000","-9,148,000","-8,967,000","-9,046,000","-8,696,000","-5,976,000","-7,905,000","-4,557,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Free Cash Flow Per Share,0.062,-0.149,-0.200,-0.194,-0.190,-0.188,-0.186,-0.121,-0.203,-0.111,Upgrade,Financials in EUR,Fiscal year is January - December
+Operating Margin,-639.643%,-877.203%,-1975.446%,-1937.690%,-1520.350%,-984.537%,-738.386%,-1011.985%,-854.523%,-883.974%,Upgrade,Financials in EUR,Fiscal year is January - December
+Profit Margin,-798.036%,-301.533%,-2323.884%,-1967.781%,-1135.294%,-1243.093%,-569.071%,-804.639%,-1090.582%,-1119.359%,Upgrade,Financials in EUR,Fiscal year is January - December
+Free Cash Flow Margin,576.786%,-1479.502%,-2118.973%,-2780.547%,-1425.596%,-1146.515%,-1063.081%,-770.103%,-979.554%,-584.231%,Upgrade,Financials in EUR,Fiscal year is January - December
+EBITDA,"-3,509,000","-5,073,000","-7,724,000","-6,311,000","-9,217,000","-7,611,000","-5,705,000","-8,031,000","-6,372,000","-6,958,000",Upgrade,Financials in EUR,Fiscal year is January - December
+D&A For EBITDA,"73,000","-494,000","1,126,000","64,000","346,000","157,000","335,000","-178,000","524,000","-63,000",Upgrade,Financials in EUR,Fiscal year is January - December
+EBIT,"-3,582,000","-4,579,000","-8,850,000","-6,375,000","-9,563,000","-7,768,000","-6,040,000","-7,853,000","-6,896,000","-6,895,000",Upgrade,Financials in EUR,Fiscal year is January - December
+Revenue as Reported,"560,000","522,000","448,000","329,000","629,000","789,000","818,000","776,000","807,000","780,000",Upgrade,Financials in EUR,Fiscal year is January - December

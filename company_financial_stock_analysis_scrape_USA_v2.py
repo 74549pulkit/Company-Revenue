@@ -198,8 +198,8 @@ class FinancialDataScraper:
 def main():
     # Configuration
     CHROMEDRIVER_PATH = r"C:/Users/pulkit.kushwaha/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe"
-    INPUT_FILE = r"D:\Vscode\Company_revenue\Data\stock_analysis_screener_usa.csv"
-    OUTPUT_FOLDER = r"D:\Vscode\Company_revenue\company_revenue_v5"
+    INPUT_FILE = r"D:\Vscode\Company_revenue\Data\stock_analysis_screener_OTC_USA.csv"
+    OUTPUT_FOLDER = r"D:\Vscode\Company_revenue\company_revenue_otc_usa"
     MAX_WORKERS = 5
     
     # Create output directory if it doesn't exist

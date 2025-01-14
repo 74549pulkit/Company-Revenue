@@ -1,0 +1,36 @@
+Fiscal Quarter,Q3 2024,Q2 2024,Q1 2024,Q4 2023,Q3 2023,Q2 2023,Q1 2023,Q4 2022,Q3 2022,Q2 2022,Q1 2022,Q4 2021,Q3 2021,Currency,Fiscal_Year_period
+Period Ending,"Sep '24 Sep 30, 2024","Jun '24 Jun 30, 2024","Mar '24 Mar 31, 2024","Dec '23 Dec 31, 2023","Sep '23 Sep 30, 2023","Jun '23 Jun 30, 2023","Mar '23 Mar 31, 2023","Dec '22 Dec 31, 2022","Sep '22 Sep 30, 2022","Jun '22 Jun 30, 2022","Mar '22 Mar 31, 2022","Dec '21 Dec 31, 2021","Sep '21 Sep 30, 2021",,
+Revenue,"123,000","118,000","114,000","97,000","99,000","77,000","78,000","75,000","84,000","73,000","66,000","67,000","58,000",Financials in CAD,Fiscal year is January - December
+Revenue Growth (YoY),24.242%,53.247%,46.154%,29.333%,17.857%,5.479%,18.182%,11.940%,44.828%,-,-,-,-,Financials in CAD,Fiscal year is January - December
+Cost of Revenue,"52,000","54,000","56,000","2,216,000","84,000","33,000","28,000","512,000","57,000","25,000","342,000","9,000","23,000",Financials in CAD,Fiscal year is January - December
+Gross Profit,"71,000","64,000","58,000","-2,119,000","15,000","44,000","50,000","-437,000","27,000","48,000","-276,000","58,000","35,000",Financials in CAD,Fiscal year is January - December
+"Selling, General & Admin","2,067,000","3,056,000","2,099,000","3,686,000","2,923,000","4,001,000","1,876,000","1,881,000","2,335,000","2,504,000","2,616,000","2,303,000","3,022,000",Financials in CAD,Fiscal year is January - December
+Research & Development,"808,000","575,000","295,000","469,000","222,000","282,000","336,000","175,000","277,000","737,000","1,019,000","1,224,000","1,757,000",Financials in CAD,Fiscal year is January - December
+Other Operating Expenses,"36,000","177,000","84,000","84,000","43,000","182,000","43,000","4,000","124,000","135,000","102,000","632,000","21,000",Financials in CAD,Fiscal year is January - December
+Operating Expenses,"3,731,000","4,716,000","3,243,000","5,289,000","3,949,000","5,079,000","3,202,000","2,852,000","3,835,000","4,462,000","4,914,000","5,315,000","6,345,000",Financials in CAD,Fiscal year is January - December
+Operating Income,"-3,660,000","-4,652,000","-3,185,000","-7,408,000","-3,934,000","-5,035,000","-3,152,000","-3,289,000","-3,808,000","-4,414,000","-5,190,000","-5,257,000","-6,310,000",Financials in CAD,Fiscal year is January - December
+Interest Expense,"-190,000","-181,000","-185,000","-1,241,000","-219,000","-1,303,000","-1,539,000","-2,825,000","-900,000","-1,225,000","-1,074,000","-263,000","-406,000",Financials in CAD,Fiscal year is January - December
+Interest & Investment Income,"58,000","50,000","89,000","200,000","56,000","64,000","382,000","124,000","33,000","54,000",-,-,-,Financials in CAD,Fiscal year is January - December
+Currency Exchange Gain (Loss),"-5,000","-3,000","-14,000","-19,000","-35,000","-23,000","-4,000","-12,000","-8,000","32,000","-25,000","-13,000","-6,000",Financials in CAD,Fiscal year is January - December
+Other Non Operating Income (Expenses),"-138,000","-43,000","-60,000","961,000","-82,000","-998,000","-539,000","7,000","-576,000","-301,000","812,000","-1,528,000","448,000",Financials in CAD,Fiscal year is January - December
+EBT Excluding Unusual Items,"-3,935,000","-4,829,000","-3,355,000","-7,507,000","-4,214,000","-7,295,000","-4,852,000","-5,995,000","-5,259,000","-5,854,000","-5,477,000","-7,061,000","-6,274,000",Financials in CAD,Fiscal year is January - December
+Asset Writedown,-,-,-,"-22,768,000",-,-,-,-,"-2,091,000",-,-,-,-,Financials in CAD,Fiscal year is January - December
+Other Unusual Items,-,-,-,-,-,"-1,958,000",-,-,-,-,-,-,-,Financials in CAD,Fiscal year is January - December
+Pretax Income,"-3,935,000","-4,829,000","-3,355,000","-30,275,000","-4,214,000","-9,253,000","-4,852,000","-5,995,000","-7,350,000","-5,854,000","-5,477,000","-7,061,000","-6,274,000",Financials in CAD,Fiscal year is January - December
+Income Tax Expense,"-17,000","-17,000","-17,000","-5,790,000","-21,000","-21,000","-16,000","-1,000","-17,000","-19,000","-21,000","-13,000","-20,000",Financials in CAD,Fiscal year is January - December
+Net Income,"-3,918,000","-4,812,000","-3,338,000","-24,485,000","-4,193,000","-9,232,000","-4,836,000","-5,994,000","-7,333,000","-5,835,000","-5,456,000","-7,048,000","-6,254,000",Financials in CAD,Fiscal year is January - December
+Net Income to Common,"-3,918,000","-4,812,000","-3,338,000","-24,485,000","-4,193,000","-9,232,000","-4,836,000","-5,994,000","-7,333,000","-5,835,000","-5,456,000","-7,048,000","-6,254,000",Financials in CAD,Fiscal year is January - December
+Shares Outstanding (Basic),"72,182,853","70,847,396","70,847,396","70,042,179","69,824,792","45,744,192","38,533,356","38,533,880","38,533,370","38,533,370","54,430,355","51,816,076","51,810,537",Financials in CAD,Fiscal year is January - December
+Shares Outstanding (Diluted),"72,182,853","70,847,396","70,847,396","70,042,179","69,824,792","45,744,192","38,533,356","38,533,880","38,533,370","38,533,370","54,430,355","51,816,076","51,810,537",Financials in CAD,Fiscal year is January - December
+Shares Change (YoY),3.377%,54.877%,83.860%,81.768%,81.206%,18.713%,-29.206%,-25.633%,-25.626%,-,-,-,-,Financials in CAD,Fiscal year is January - December
+EPS (Basic),-0.054,-0.068,-0.047,-0.350,-0.060,-0.202,-0.126,-0.156,-0.190,-0.151,-0.100,-0.136,-0.121,Financials in CAD,Fiscal year is January - December
+EPS (Diluted),-0.054,-0.070,-0.050,-0.352,-0.060,-0.202,-0.126,-0.156,-0.190,-0.151,-0.100,-0.140,-0.121,Financials in CAD,Fiscal year is January - December
+Free Cash Flow,"-1,506,000","-443,000","-2,672,000","-3,008,000","-8,640,000","-4,966,000","-1,679,000","-2,092,000","-2,185,000","-2,945,000","-2,912,000","-3,720,000",-,Financials in CAD,Fiscal year is January - December
+Free Cash Flow Per Share,-0.021,-0.006,-0.038,-0.043,-0.124,-0.109,-0.044,-0.054,-0.057,-0.076,-0.053,-0.072,-,Financials in CAD,Fiscal year is January - December
+Gross Margin,57.724%,54.237%,50.877%,-,15.152%,57.143%,64.103%,-,32.143%,65.753%,-,86.567%,60.345%,Financials in CAD,Fiscal year is January - December
+Operating Margin,-2975.610%,-3942.373%,-2793.860%,-7637.113%,-3973.737%,-6538.961%,-4041.026%,-4385.333%,-4533.333%,-6046.575%,-7863.636%,-7846.269%,-10879.310%,Financials in CAD,Fiscal year is January - December
+Profit Margin,-3185.366%,-4077.966%,-2928.070%,-25242.268%,-4235.354%,-11989.610%,-6200.000%,-7992.000%,-8729.762%,-7993.151%,-8266.667%,-10519.403%,-10782.759%,Financials in CAD,Fiscal year is January - December
+Free Cash Flow Margin,-1224.390%,-375.424%,-2343.860%,-3101.031%,-8727.273%,-6449.351%,-2152.564%,-2789.333%,-2601.190%,-4034.247%,-4412.121%,-5552.239%,-,Financials in CAD,Fiscal year is January - December
+EBITDA,"-2,939,000","-3,925,000","-2,464,000","-6,999,000","-3,174,000","-4,433,000","-2,223,000","-3,000,000","-2,718,000","-3,327,000","-4,095,000","-4,723,750","-5,422,668",Financials in CAD,Fiscal year is January - December
+D&A For EBITDA,"721,000","727,000","721,000","409,000","760,000","602,000","929,000","289,000","1,090,000","1,087,000","1,095,000","533,250","887,332",Financials in CAD,Fiscal year is January - December
+EBIT,"-3,660,000","-4,652,000","-3,185,000","-7,408,000","-3,934,000","-5,035,000","-3,152,000","-3,289,000","-3,808,000","-4,414,000","-5,190,000","-5,257,000","-6,310,000",Financials in CAD,Fiscal year is January - December

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan  8 16:14:26 2025
+Created on Tue Jan 14 15:47:11 2025
 
 @author: pulkit.kushwaha
 """
@@ -8,8 +8,26 @@ Created on Wed Jan  8 16:14:26 2025
 import os
 import pandas as pd
 
+def convert_period_ending(date_str):
+    # Check if the format has the apostrophe (e.g., "Sep '24")
+    if "'" in date_str:
+        d1, d2 = date_str.split(' ', 1)
+        d3, d4 = d2.split(" ", 1)  # Start from the second part after the first space
+
+       
+        
+        date_str = d4.replace(",", "")  # Remove commas
+        # Handle month abbreviation (e.g., 'Sep' -> 'September')
+        date_str = pd.to_datetime(date_str, format='%b %d %Y').strftime('%Y-%m-%d 00:00:00')
+        return date_str
+    
+    # Convert the cleaned-up string to a datetime object
+    return pd.to_datetime(date_str, format='%B %d, %Y').strftime('%Y-%m-%d 00:00:00')
+
+
+
 # Folder containing financial data files
-folder_path = r"d:\Vscode\Company_revenue\company_revenue_v4"
+folder_path = r"d:\Vscode\Company_revenue\company_revenue_otc_usa"
 
 # Initialize an empty list to store extracted data
 financial_data = []
@@ -57,20 +75,28 @@ for file in os.listdir(folder_path):
             # Store extracted data
             for i in range(len(fiscal_years)):  # Loop through each fiscal year column
                 financial_data.append({
-                    "Company": company_symbol,
+                    "Ticker": company_symbol,
                     "Frequency": frequency,
                     "Fiscal": fiscal_years[i],
                     "Period Ending": period_ending[i],
-                    "Revenue": revenue_values[i] if i < len(revenue_values) else None,
-                    "Currency": currency_row,
+                    "Total Revenue": revenue_values[i] if i < len(revenue_values) else None,
+                    "Reported Currency": currency_row.split(" ")[-1],
                     "Fiscal_period": fiscal_period
                 })
 
 # Convert to DataFrame for better visualization
 financial_df = pd.DataFrame(financial_data)
 
+financial_df.columns
+financial_df = financial_df[financial_df["Period Ending"].notna()]
+financial_df = financial_df[~(financial_df["Total Revenue"]=="Upgrade")]
+financial_df.loc[financial_df["Fiscal"].str.startswith("H", na=False), "Frequency"] = "Semi-Annual"
+financial_df['Period Ending'] = financial_df['Period Ending'].apply(convert_period_ending)
+
+
+
 # Save the extracted data
-output_file = "Stock_analysis_extracted_financial_data.csv"
+output_file = "Stock_analysis_extracted_financial_data_OTC_USA.csv"
 
 financial_df.to_csv(output_file, index=False)
 

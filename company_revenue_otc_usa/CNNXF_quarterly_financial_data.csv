@@ -1,0 +1,39 @@
+Fiscal Quarter,Q2 2022,Q1 2022,Q4 2021,Q3 2021,Q2 2021,Q1 2021,Q4 2020,Q3 2020,Q2 2020,Q1 2020,Q4 2019,Q3 2019,Q2 2019,Q1 2019,Currency,Fiscal_Year_period
+Period Ending,"Sep '21 Sep 30, 2021","Jun '21 Jun 30, 2021","Mar '21 Mar 31, 2021","Dec '20 Dec 31, 2020","Sep '20 Sep 30, 2020","Jun '20 Jun 30, 2020","Mar '20 Mar 31, 2020","Dec '19 Dec 31, 2019","Sep '19 Sep 30, 2019","Jun '19 Jun 30, 2019","Mar '19 Mar 31, 2019","Dec '18 Dec 31, 2018","Sep '18 Sep 30, 2018","Jun '18 Jun 30, 2018",,
+Revenue,"119,935","111,782","98,905","141,894","41,808","103,887","121,502","278,718","249,326","265,550","129,809","211,746","405,983","231,275",Financials in CAD,Fiscal year is April - March
+Revenue Growth (YoY),186.871%,7.600%,-18.598%,-49.090%,-83.232%,-60.879%,-6.399%,31.628%,-38.587%,14.820%,-,-,-,-,Financials in CAD,Fiscal year is April - March
+Cost of Revenue,"18,861","32,758","5,100","38,228","3,801","10,950","19,945","17,268","112,667","-17,877","155,974","135,520","126,221","108,135",Financials in CAD,Fiscal year is April - March
+Gross Profit,"101,074","79,024","93,805","103,666","38,007","92,937","101,557","261,450","136,659","283,427","-26,165","76,226","279,762","123,140",Financials in CAD,Fiscal year is April - March
+"Selling, General & Admin","61,630","162,407","293,555","208,925","-44,496","341,312","436,803","432,788","669,451","666,771","1,715,402","1,131,564","476,368","387,461",Financials in CAD,Fiscal year is April - March
+Operating Expenses,"68,648","171,063","786,040","218,701","-39,193","347,698","418,662","627,640","1,125,442","1,031,893","3,032,897","1,313,522","476,748","957,954",Financials in CAD,Fiscal year is April - March
+Operating Income,"32,426","-92,039","-692,235","-115,035","77,200","-254,761","-317,105","-366,190","-988,783","-748,466","-3,059,062","-1,237,296","-196,986","-834,814",Financials in CAD,Fiscal year is April - March
+Interest Expense,"-67,894","-148,015","-235,385","-65,395","-67,735","-143,036","-190,547","-51,336","-48,293","-50,285","-53,192",-,"-82,999","-23,704",Financials in CAD,Fiscal year is April - March
+Currency Exchange Gain (Loss),-,-152,"221,657","-111,516","-58,777","-179,735","39,778","-15,647","10,828","-16,289","-3,557","-3,493","-1,149","-17,303",Financials in CAD,Fiscal year is April - March
+Other Non Operating Income (Expenses),-684,"-3,037","95,951",-676,"-1,088",-125,194,-385,"-1,275","-1,259","-4,041","28,662","-5,691","-2,123",Financials in CAD,Fiscal year is April - March
+EBT Excluding Unusual Items,"-36,152","-243,243","-610,012","-292,622","-50,400","-577,657","-467,680","-433,558","-1,027,523","-816,299","-3,119,852","-1,212,127","-286,825","-877,944",Financials in CAD,Fiscal year is April - March
+Impairment of Goodwill,-,-,-,-,-,-,-,-,-,-,"-1,371,928",-,-,-,Financials in CAD,Fiscal year is April - March
+Gain (Loss) on Sale of Investments,-,-,"82,984","-816,397",-,-,"-148,963",-,-,-,-,-,-,-,Financials in CAD,Fiscal year is April - March
+Gain (Loss) on Sale of Assets,-,-,-,-,-,-,-216,-,"-11,461",-,-,-,-,-,Financials in CAD,Fiscal year is April - March
+Asset Writedown,-,-,"-1,374,999",-,-,-,"-1,725,000",-,-,-,"-2,127,736",-,-,-,Financials in CAD,Fiscal year is April - March
+Other Unusual Items,-,-,"-41,620",-,-,-,-,-,-,-,"226,195",-,-,-,Financials in CAD,Fiscal year is April - March
+Pretax Income,"-36,152","-243,243","-1,943,647","-1,109,019","-50,400","-577,657","-2,341,859","-433,558","-1,038,984","-816,299","-6,393,321","-1,212,127","-286,825","-877,944",Financials in CAD,Fiscal year is April - March
+Income Tax Expense,-,-,-,-,-,-,-,-,-,-,"-80,000",-,-,-,Financials in CAD,Fiscal year is April - March
+Net Income,"-36,152","-243,243","-1,943,647","-1,109,019","-50,400","-577,657","-2,341,859","-433,558","-1,038,984","-816,299","-6,313,321","-1,212,127","-286,825","-877,944",Financials in CAD,Fiscal year is April - March
+Net Income to Common,"-36,152","-243,243","-1,943,647","-1,109,019","-50,400","-577,657","-2,341,859","-433,558","-1,038,984","-816,299","-6,313,321","-1,212,127","-286,825","-877,944",Financials in CAD,Fiscal year is April - March
+Shares Outstanding (Basic),"62,697,524","62,697,524","62,516,138","53,880,726","53,744,944","53,552,999","54,403,861","52,853,853","51,840,890","52,453,684","46,701,289","49,684,865","40,404,024","20,174,704",Financials in CAD,Fiscal year is April - March
+Shares Outstanding (Diluted),"62,697,524","62,697,524","62,516,138","53,880,726","53,744,944","53,552,999","54,403,861","52,853,853","51,840,890","52,453,684","46,701,289","49,684,865","40,404,024","20,174,704",Financials in CAD,Fiscal year is April - March
+Shares Change (YoY),16.658%,17.076%,14.911%,1.943%,3.673%,2.096%,16.493%,6.378%,28.306%,159.997%,-,-,-,-,Financials in CAD,Fiscal year is April - March
+EPS (Basic),-0.001,-0.004,-0.031,-0.021,-0.001,-0.011,-0.043,-0.008,-0.020,-0.016,-0.135,-0.024,-0.007,-0.044,Financials in CAD,Fiscal year is April - March
+EPS (Diluted),-0.001,-0.004,-0.031,-0.021,-0.001,-0.011,-0.043,-0.008,-0.020,-0.016,-0.135,-0.024,-0.007,-0.044,Financials in CAD,Fiscal year is April - March
+Free Cash Flow,"-310,264","-32,517","211,326","-94,786","-53,272","-227,239","-13,106","-440,938","-141,206","-251,475","621,643","-1,422,712","-167,787","-328,401",Financials in CAD,Fiscal year is April - March
+Free Cash Flow Per Share,-0.005,-0.001,0.003,-0.002,-0.001,-0.004,-0.000,-0.008,-0.003,-0.005,0.013,-0.029,-0.004,-0.016,Financials in CAD,Fiscal year is April - March
+Gross Margin,84.274%,70.695%,94.844%,73.059%,90.908%,89.460%,83.585%,93.804%,54.811%,106.732%,-20.157%,35.999%,68.910%,53.244%,Financials in CAD,Fiscal year is April - March
+Operating Margin,27.036%,-82.338%,-699.899%,-81.071%,184.654%,-245.229%,-260.987%,-131.384%,-396.582%,-281.855%,-2356.587%,-584.330%,-48.521%,-360.962%,Financials in CAD,Fiscal year is April - March
+Profit Margin,-30.143%,-217.605%,-1965.166%,-781.583%,-120.551%,-556.044%,-1927.424%,-155.554%,-416.717%,-307.399%,-4863.546%,-572.444%,-70.650%,-379.610%,Financials in CAD,Fiscal year is April - March
+Free Cash Flow Margin,-258.693%,-29.090%,213.666%,-66.801%,-127.421%,-218.737%,-10.787%,-158.202%,-56.635%,-94.700%,478.891%,-671.896%,-41.329%,-141.996%,Financials in CAD,Fiscal year is April - March
+EBITDA,"39,444","-85,365","-686,689","-110,611","81,746","-249,838","-312,096","-361,501","-984,652","-745,178","-3,055,180","-1,236,936","-196,606","-834,439",Financials in CAD,Fiscal year is April - March
+EBITDA Margin,32.888%,-76.367%,-,-77.953%,195.527%,-240.490%,-256.865%,-129.701%,-,-280.617%,-,-,-48.427%,-,Financials in CAD,Fiscal year is April - March
+D&A For EBITDA,"7,018","6,674","5,546","4,424","4,546","4,923","5,009","4,689","4,131","3,288","3,882",360,380,375,Financials in CAD,Fiscal year is April - March
+EBIT,"32,426","-92,039","-692,235","-115,035","77,200","-254,761","-317,105","-366,190","-988,783","-748,466","-3,059,062","-1,237,296","-196,986","-834,814",Financials in CAD,Fiscal year is April - March
+EBIT Margin,27.036%,-82.338%,-,-81.071%,184.654%,-245.229%,-260.987%,-131.384%,-,-281.855%,-,-,-48.521%,-,Financials in CAD,Fiscal year is April - March
+Advertising Expenses,-,"80,284",-,"65,180","59,687","76,102",-,"170,948","228,406","247,393",-,"524,563","88,260","22,448",Financials in CAD,Fiscal year is April - March
