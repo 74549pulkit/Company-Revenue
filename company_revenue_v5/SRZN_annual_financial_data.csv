@@ -1,0 +1,30 @@
+Fiscal Year,TTM,FY 2023,FY 2022,FY 2021,FY 2020,FY 2019,Currency,Fiscal_Year_period
+Period Ending,"Sep '24 Sep 30, 2024","Dec '23 Dec 31, 2023","Dec '22 Dec 31, 2022","Dec '21 Dec 31, 2021","Dec '20 Dec 31, 2020","Dec '19 Dec 31, 2019",,
+Revenue,"10,000,000",-,"12,500,000",-,-,-,Financials in USD,Fiscal year is January - December
+Cost of Revenue,"21,877,000","27,230,000","37,013,000","40,177,000",-,-,Financials in USD,Fiscal year is January - December
+Gross Profit,"-11,877,000","-27,230,000","-24,513,000","-40,177,000",-,-,Financials in USD,Fiscal year is January - December
+"Selling, General & Admin","14,754,000","15,798,000","19,826,000","14,214,000","7,123,000","5,503,000",Financials in USD,Fiscal year is January - December
+Research & Development,-,-,-,-,"25,684,000","19,603,000",Financials in USD,Fiscal year is January - December
+Operating Expenses,"14,754,000","15,798,000","19,826,000","14,214,000","32,807,000","25,106,000",Financials in USD,Fiscal year is January - December
+Operating Income,"-26,631,000","-43,028,000","-44,339,000","-54,391,000","-32,807,000","-25,106,000",Financials in USD,Fiscal year is January - December
+Interest & Investment Income,"1,815,000","2,340,000","781,000","72,000","91,000","444,000",Financials in USD,Fiscal year is January - December
+Other Non Operating Income (Expenses),"-19,582,000","398,000","7,554,000","-329,000",-,"300,000",Financials in USD,Fiscal year is January - December
+EBT Excluding Unusual Items,"-44,398,000","-40,290,000","-36,004,000","-54,648,000","-32,716,000","-24,362,000",Financials in USD,Fiscal year is January - December
+Merger & Restructuring Charges,"-40,000","-2,752,000",-,-,-,-,Financials in USD,Fiscal year is January - December
+Pretax Income,"-44,438,000","-43,042,000","-36,004,000","-54,648,000","-32,716,000","-24,362,000",Financials in USD,Fiscal year is January - December
+Net Income,"-44,438,000","-43,042,000","-36,004,000","-54,648,000","-32,716,000","-24,362,000",Financials in USD,Fiscal year is January - December
+Net Income to Common,"-44,438,000","-43,042,000","-36,004,000","-54,648,000","-32,716,000","-24,362,000",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Basic),"2,628,500","2,018,000","2,314,000","1,645,934","1,064,824","393,311",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Diluted),"2,628,500","2,018,000","2,314,000","1,645,934","1,064,824","393,311",Financials in USD,Fiscal year is January - December
+Shares Change (YoY),26.571%,-12.792%,40.589%,54.573%,170.733%,-,Financials in USD,Fiscal year is January - December
+EPS (Basic),-16.906,-21.329,-15.559,-33.202,-30.724,-61.941,Financials in USD,Fiscal year is January - December
+EPS (Diluted),-16.906,-21.329,-15.559,-33.202,-30.724,-61.941,Financials in USD,Fiscal year is January - December
+Free Cash Flow,"-28,427,000","-40,761,000","-44,873,000","-50,082,000","-29,973,000","-22,619,000",Financials in USD,Fiscal year is January - December
+Free Cash Flow Per Share,-10.815,-20.199,-19.392,-30.428,-28.148,-57.509,Financials in USD,Fiscal year is January - December
+Gross Margin,-118.770%,-,-196.104%,-,-,-,Financials in USD,Fiscal year is January - December
+Operating Margin,-266.310%,-,-354.712%,-,-,-,Financials in USD,Fiscal year is January - December
+Profit Margin,-444.380%,-,-288.032%,-,-,-,Financials in USD,Fiscal year is January - December
+Free Cash Flow Margin,-284.270%,-,-358.984%,-,-,-,Financials in USD,Fiscal year is January - December
+EBITDA,"-25,060,000","-41,117,000","-42,384,000","-52,325,000","-30,870,000","-22,823,000",Financials in USD,Fiscal year is January - December
+D&A For EBITDA,"1,571,000","1,911,000","1,955,000","2,066,000","1,937,000","2,283,000",Financials in USD,Fiscal year is January - December
+EBIT,"-26,631,000","-43,028,000","-44,339,000","-54,391,000","-32,807,000","-25,106,000",Financials in USD,Fiscal year is January - December

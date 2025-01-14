@@ -1,0 +1,26 @@
+Fiscal Quarter,Q3 2024,Q2 2024,Q1 2024,Q4 2023,Q3 2023,Q2 2023,Q1 2023,Q4 2022,Q3 2022,Q2 2022,Q1 2022,Q4 2021,Currency,Fiscal_Year_period
+Period Ending,"Sep '24 Sep 30, 2024","Jun '24 Jun 30, 2024","Mar '24 Mar 31, 2024","Dec '23 Dec 31, 2023","Sep '23 Sep 30, 2023","Jun '23 Jun 30, 2023","Mar '23 Mar 31, 2023","Dec '22 Dec 31, 2022","Sep '22 Sep 30, 2022","Jun '22 Jun 30, 2022","Mar '22 Mar 31, 2022","Dec '21 Dec 31, 2021",,
+"Selling, General & Admin","2,190,000","2,372,000","2,823,000","1,537,000","2,061,000","2,769,000","3,149,000","1,183,000","2,044,000","1,330,000","1,286,000","1,323,000",Financials in USD,Fiscal year is January - December
+Research & Development,"3,546,000","4,157,000","2,944,000","2,782,000","2,772,000","3,814,000","2,991,000","1,922,000","1,244,000","2,259,000","2,925,000","2,755,000",Financials in USD,Fiscal year is January - December
+Operating Expenses,"5,736,000","6,529,000","5,767,000","4,319,000","4,833,000","6,583,000","6,140,000","3,105,000","3,288,000","3,589,000","4,211,000","4,078,000",Financials in USD,Fiscal year is January - December
+Operating Income,"-5,736,000","-6,529,000","-5,767,000","-4,319,000","-4,833,000","-6,583,000","-6,140,000","-3,105,000","-3,288,000","-3,589,000","-4,211,000","-4,078,000",Financials in USD,Fiscal year is January - December
+Interest Expense,-,-,-,-,-,-,"-110,000","-232,000",-,-,-,-,Financials in USD,Fiscal year is January - December
+Interest & Investment Income,"200,000",-,-,"200,000","200,000",-,-,-,-,-,-,-,Financials in USD,Fiscal year is January - December
+Other Non Operating Income (Expenses),"-82,000","2,575,000","5,897,000","-2,049,000","14,000","279,000","3,162,000","2,009,000","707,000","559,000","581,000","-328,000",Financials in USD,Fiscal year is January - December
+EBT Excluding Unusual Items,"-5,618,000","-3,954,000","130,000","-6,168,000","-4,619,000","-6,304,000","-3,088,000","-1,328,000","-2,581,000","-3,030,000","-3,630,000","-4,406,000",Financials in USD,Fiscal year is January - December
+Merger & Restructuring Charges,-,-,-,-,-,-,"-16,200,000",-,-,-,-,-,Financials in USD,Fiscal year is January - December
+Other Unusual Items,-,-,-,"2,022,000",-,-,-,"2,745,000",-,-,-,-,Financials in USD,Fiscal year is January - December
+Pretax Income,"-5,618,000","-3,954,000","130,000","-4,146,000","-4,619,000","-6,304,000","-19,288,000","1,417,000","-2,581,000","-3,030,000","-3,630,000","-4,406,000",Financials in USD,Fiscal year is January - December
+Net Income,"-5,618,000","-3,954,000","130,000","-4,146,000","-4,619,000","-6,304,000","-19,288,000","1,417,000","-2,581,000","-3,030,000","-3,630,000","-4,406,000",Financials in USD,Fiscal year is January - December
+Preferred Dividends & Other Adjustments,-,-,-,-,-,-,-,"1,318,000",-,-,-,-,Financials in USD,Fiscal year is January - December
+Net Income to Common,"-5,618,000","-3,954,000","130,000","-4,146,000","-4,619,000","-6,304,000","-19,288,000","99,000","-2,581,000","-3,030,000","-3,630,000","-4,406,000",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Basic),"11,134,964","11,129,053","9,754,517","5,739,454","5,667,343","5,661,933","823,069","84,177","83,154","82,923","78,678","2,726,430",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Diluted),"11,134,964","11,129,053","10,047,415","5,739,454","5,667,343","5,661,933","823,069","84,177","83,154","82,923","78,678","2,726,430",Financials in USD,Fiscal year is January - December
+Shares Change (YoY),96.476%,96.559%,1120.726%,6718.316%,6715.479%,6727.940%,946.123%,-96.913%,-,-,-,-,Financials in USD,Fiscal year is January - December
+EPS (Basic),-0.505,-0.355,0.013,-0.722,-0.815,-1.113,-23.434,1.176,-31.039,-36.540,-46.137,-1.616,Financials in USD,Fiscal year is January - December
+EPS (Diluted),-0.505,-0.355,0.010,-0.722,-0.815,-1.113,-23.434,1.176,-31.039,-36.540,-46.137,-1.616,Financials in USD,Fiscal year is January - December
+Free Cash Flow,"-4,673,000","-6,792,000","-4,715,000","-3,612,000","-4,571,000","-12,270,000","-5,355,000","-4,089,000","-1,826,000","-2,216,000","-3,630,000","-3,798,000",Financials in USD,Fiscal year is January - December
+Free Cash Flow Per Share,-0.420,-0.610,-0.469,-0.629,-0.807,-2.167,-6.506,-48.576,-21.959,-26.724,-46.137,-1.393,Financials in USD,Fiscal year is January - December
+EBITDA,"-5,721,000","-6,515,000","-5,752,000","-4,300,000","-4,821,000","-6,569,000","-6,127,000","-3,092,000","-3,275,000","-3,576,000","-4,198,000","-4,066,000",Financials in USD,Fiscal year is January - December
+D&A For EBITDA,"15,000","14,000","15,000","19,000","12,000","14,000","13,000","13,000","13,000","13,000","13,000","12,000",Financials in USD,Fiscal year is January - December
+EBIT,"-5,736,000","-6,529,000","-5,767,000","-4,319,000","-4,833,000","-6,583,000","-6,140,000","-3,105,000","-3,288,000","-3,589,000","-4,211,000","-4,078,000",Financials in USD,Fiscal year is January - December

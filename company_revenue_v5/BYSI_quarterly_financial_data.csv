@@ -1,0 +1,35 @@
+Fiscal Quarter,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,H2 2019,Currency,Fiscal_Year_period
+Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020","Dec '19 Dec 31, 2019",,
+Revenue,"1,000,000","876,000","875,000","675,000","676,000","675,000","676,000","180,000",-,-,Financials in USD,Fiscal year is January - December
+Revenue Growth (YoY),14.286%,29.778%,29.438%,0%,0%,275.000%,-,-,-,-,Financials in USD,Fiscal year is January - December
+Gross Profit,"1,000,000","876,000","875,000","675,000","676,000","675,000","676,000","180,000",-,-,Financials in USD,Fiscal year is January - December
+"Selling, General & Admin","4,273,000","5,085,000","5,145,000","5,516,000","7,492,000","15,271,000","15,432,000","17,081,000","5,517,000","5,179,000",Financials in USD,Fiscal year is January - December
+Research & Development,"4,149,000","5,421,000","9,214,000","11,590,000","13,992,000","14,245,000","22,643,000","17,061,000","24,732,000","19,810,000",Financials in USD,Fiscal year is January - December
+Operating Expenses,"8,422,000","10,506,000","14,359,000","17,106,000","21,484,000","29,516,000","38,075,000","34,142,000","30,249,000","24,989,000",Financials in USD,Fiscal year is January - December
+Operating Income,"-7,422,000","-9,630,000","-13,484,000","-16,431,000","-20,808,000","-28,841,000","-37,399,000","-33,962,000","-30,249,000","-24,989,000",Financials in USD,Fiscal year is January - December
+Interest Expense,-,-,-,-,"-17,000","-41,000","-46,000","-43,000","-42,000","-66,000",Financials in USD,Fiscal year is January - December
+Interest & Investment Income,"46,000","140,000","281,000","454,000","41,000","137,000","61,000","24,000","92,000","177,000",Financials in USD,Fiscal year is January - December
+Currency Exchange Gain (Loss),"-83,000","77,000","-200,000","-479,000","-350,000","187,000","44,000","420,000","-65,000","-8,000",Financials in USD,Fiscal year is January - December
+Other Non Operating Income (Expenses),"82,000","841,000","133,000","114,000","1,259,000","478,000","3,000","1,000","3,000",-,Financials in USD,Fiscal year is January - December
+EBT Excluding Unusual Items,"-7,377,000","-8,572,000","-13,270,000","-16,342,000","-19,875,000","-28,080,000","-37,337,000","-33,560,000","-30,261,000","-24,886,000",Financials in USD,Fiscal year is January - December
+Gain (Loss) on Sale of Investments,-,-,-,"100,000",-,"144,000",-,-,-,-,Financials in USD,Fiscal year is January - December
+Other Unusual Items,-,-,-,-,-,"635,000",-,-,-,-,Financials in USD,Fiscal year is January - December
+Pretax Income,"-7,377,000","-8,572,000","-13,270,000","-16,242,000","-19,875,000","-27,301,000","-37,337,000","-33,560,000","-30,261,000","-24,886,000",Financials in USD,Fiscal year is January - December
+Income Tax Expense,-,"115,000","-9,000","-126,000","289,000","3,570,000",-,-,-,-,Financials in USD,Fiscal year is January - December
+Earnings From Continuing Operations,"-7,377,000","-8,687,000","-13,261,000","-16,116,000","-20,164,000","-30,871,000","-37,337,000","-33,560,000","-30,261,000","-24,886,000",Financials in USD,Fiscal year is January - December
+Minority Interest in Earnings,"115,000","381,000","541,000","1,326,000","1,675,000","2,988,000","1,041,000","1,424,000","1,424,000","1,446,000",Financials in USD,Fiscal year is January - December
+Net Income,"-7,262,000","-8,306,000","-12,720,000","-14,790,000","-18,489,000","-27,883,000","-36,296,000","-32,136,000","-28,837,000","-23,440,000",Financials in USD,Fiscal year is January - December
+Net Income to Common,"-7,262,000","-8,306,000","-12,720,000","-14,790,000","-18,489,000","-27,883,000","-36,296,000","-32,136,000","-28,837,000","-23,440,000",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Basic),"39,070,994","39,016,165","38,976,761","39,120,782","39,065,710","39,039,537","39,007,749","32,141,831","27,826,737","26,229,487",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Diluted),"39,070,994","39,016,165","38,976,761","39,120,782","39,065,710","39,039,537","39,007,749","32,141,831","27,826,737","26,229,487",Financials in USD,Fiscal year is January - December
+Shares Change (YoY),0.242%,-0.267%,-0.228%,0.208%,0.149%,21.460%,40.181%,22.541%,20.661%,14.102%,Financials in USD,Fiscal year is January - December
+EPS (Basic),-0.186,-0.213,-0.326,-0.378,-0.473,-0.714,-0.930,-1.000,-1.036,-0.894,Financials in USD,Fiscal year is January - December
+EPS (Diluted),-0.186,-0.213,-0.326,-0.378,-0.473,-0.714,-0.930,-1.000,-1.036,-0.894,Financials in USD,Fiscal year is January - December
+Free Cash Flow,-,-,-,-,-,"-16,912,000","-33,174,000","-18,456,000","-25,341,000","-35,059,000",Financials in USD,Fiscal year is January - December
+Free Cash Flow Per Share,-,-,-,-,-,-0.433,-0.850,-0.574,-0.911,-1.337,Financials in USD,Fiscal year is January - December
+Operating Margin,-742.200%,-1099.315%,-1541.029%,-2434.222%,-3078.107%,-4272.741%,-5532.396%,-18867.778%,-,-,Financials in USD,Fiscal year is January - December
+Profit Margin,-726.200%,-948.174%,-1453.714%,-2191.111%,-2735.059%,-4130.815%,-5369.231%,-17853.333%,-,-,Financials in USD,Fiscal year is January - December
+Free Cash Flow Margin,-,-,-,-,-,-2505.481%,-4907.396%,-10253.333%,-,-,Financials in USD,Fiscal year is January - December
+EBITDA,"-7,271,000","-9,444,000","-13,368,000","-16,229,500","-20,777,500","-28,817,000","-37,362,000","-33,917,000","-30,217,000","-24,953,000",Financials in USD,Fiscal year is January - December
+D&A For EBITDA,"151,000","186,000","116,000","201,500","30,500","24,000","37,000","45,000","32,000","36,000",Financials in USD,Fiscal year is January - December
+EBIT,"-7,422,000","-9,630,000","-13,484,000","-16,431,000","-20,808,000","-28,841,000","-37,399,000","-33,962,000","-30,249,000","-24,989,000",Financials in USD,Fiscal year is January - December

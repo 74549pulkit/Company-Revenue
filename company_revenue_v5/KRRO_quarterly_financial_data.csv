@@ -1,0 +1,21 @@
+Fiscal Quarter,Q3 2024,Q2 2024,Q1 2024,Q4 2023,Q3 2023,Q2 2023,Q1 2023,Q4 2022,Q3 2022,Q2 2022,Q1 2022,Currency,Fiscal_Year_period
+Period Ending,"Sep '24 Sep 30, 2024","Jun '24 Jun 30, 2024","Mar '24 Mar 31, 2024","Dec '23 Dec 31, 2023","Sep '23 Sep 30, 2023","Jun '23 Jun 30, 2023","Mar '23 Mar 31, 2023","Dec '22 Dec 31, 2022","Sep '22 Sep 30, 2022","Jun '22 Jun 30, 2022","Mar '22 Mar 31, 2022",,
+"Selling, General & Admin","10,204,000","9,842,000","9,805,000","14,346,000","7,787,000","7,540,000","5,891,000","5,631,000","6,722,000","4,976,000","4,056,000",Financials in USD,Fiscal year is January - December
+Research & Development,"13,088,000","14,283,000","11,648,000","12,547,000","11,361,000","10,868,000","14,195,000","10,830,000","9,012,000","8,192,000","9,579,000",Financials in USD,Fiscal year is January - December
+Operating Expenses,"23,292,000","24,125,000","21,453,000","26,893,000","19,148,000","18,408,000","20,086,000","16,461,000","15,734,000","13,168,000","13,635,000",Financials in USD,Fiscal year is January - December
+Operating Income,"-23,292,000","-24,125,000","-21,453,000","-26,893,000","-19,148,000","-18,408,000","-20,086,000","-16,461,000","-15,734,000","-13,168,000","-13,635,000",Financials in USD,Fiscal year is January - December
+Other Non Operating Income (Expenses),"2,284,000","2,329,000","1,913,000","1,494,000","656,000","786,000","481,000","437,000","356,000","125,000","58,000",Financials in USD,Fiscal year is January - December
+Pretax Income,"-21,008,000","-21,796,000","-19,540,000","-25,399,000","-18,492,000","-17,622,000","-19,605,000","-16,024,000","-15,378,000","-13,043,000","-13,577,000",Financials in USD,Fiscal year is January - December
+Income Tax Expense,"-9,000","30,000","17,000","27,000",-,"27,000",-,"10,000",-,-,-,Financials in USD,Fiscal year is January - December
+Net Income,"-20,999,000","-21,826,000","-19,557,000","-25,426,000","-18,492,000","-17,649,000","-19,605,000","-16,034,000","-15,378,000","-13,043,000","-13,577,000",Financials in USD,Fiscal year is January - December
+Net Income to Common,"-20,999,000","-21,826,000","-19,557,000","-25,426,000","-18,492,000","-17,649,000","-19,605,000","-16,034,000","-15,378,000","-13,043,000","-13,577,000",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Basic),"9,303,218","8,986,545","8,019,626","8,016,516","284,156","276,482","271,522","5,404,000","5,228,000","5,068,000","4,878,000",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Diluted),"9,303,218","8,986,545","8,019,626","8,016,516","284,156","276,482","271,522","5,404,000","5,228,000","5,068,000","4,878,000",Financials in USD,Fiscal year is January - December
+Shares Change (YoY),3173.983%,3150.318%,2853.582%,48.344%,-94.565%,-94.545%,-94.434%,-,-,-,-,Financials in USD,Fiscal year is January - December
+EPS (Basic),-2.257,-2.429,-2.439,-3.172,-65.077,-63.834,-72.204,-2.967,-2.941,-2.574,-2.783,Financials in USD,Fiscal year is January - December
+EPS (Diluted),-2.257,-2.429,-2.439,-3.172,-65.077,-63.834,-72.204,-2.967,-2.941,-2.574,-2.783,Financials in USD,Fiscal year is January - December
+Free Cash Flow,"-20,973,000","-20,554,000","-27,502,000","-22,762,000","-12,018,000","-19,137,000","-21,202,000","-16,444,000","-15,930,000","-12,467,000","-14,016,000",Financials in USD,Fiscal year is January - December
+Free Cash Flow Per Share,-2.254,-2.287,-3.429,-2.839,-42.294,-69.216,-78.086,-3.043,-3.047,-2.460,-2.873,Financials in USD,Fiscal year is January - December
+EBITDA,"-22,427,000","-23,404,000","-20,727,000","-25,908,000","-18,229,000","-17,491,000","-19,277,000","-15,710,000","-15,049,000","-12,605,000","-13,123,000",Financials in USD,Fiscal year is January - December
+D&A For EBITDA,"865,000","721,000","726,000","985,000","919,000","917,000","809,000","751,000","685,000","563,000","512,000",Financials in USD,Fiscal year is January - December
+EBIT,"-23,292,000","-24,125,000","-21,453,000","-26,893,000","-19,148,000","-18,408,000","-20,086,000","-16,461,000","-15,734,000","-13,168,000","-13,635,000",Financials in USD,Fiscal year is January - December

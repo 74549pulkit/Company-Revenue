@@ -1,0 +1,34 @@
+Fiscal Year,TTM,FY 2023,FY 2022,FY 2021,FY 2020,FY 2019,Currency,Fiscal_Year_period
+Period Ending,"Sep '24 Sep 30, 2024","Dec '23 Dec 31, 2023","Dec '22 Dec 31, 2022","Dec '21 Dec 31, 2021","Dec '20 Dec 31, 2020","Dec '19 Dec 31, 2019",,
+Revenue,"215,232,000","129,013,000",-,-,-,-,Financials in USD,Fiscal year is January - December
+Cost of Revenue,"120,191,000","99,884,000","66,609,000",-,-,-,Financials in USD,Fiscal year is January - December
+Gross Profit,"95,041,000","29,129,000","-66,609,000",-,-,-,Financials in USD,Fiscal year is January - December
+"Selling, General & Admin","37,258,000","32,291,000","30,639,000","15,201,000","5,565,000","3,608,000",Financials in USD,Fiscal year is January - December
+Research & Development,-,-,-,"35,926,000","21,102,000","8,216,000",Financials in USD,Fiscal year is January - December
+Operating Expenses,"37,258,000","32,291,000","30,639,000","51,127,000","26,667,000","11,824,000",Financials in USD,Fiscal year is January - December
+Operating Income,"57,783,000","-3,162,000","-97,248,000","-51,127,000","-26,667,000","-11,824,000",Financials in USD,Fiscal year is January - December
+Interest & Investment Income,"18,638,000","15,218,000","2,632,000","43,000","164,000","451,000",Financials in USD,Fiscal year is January - December
+Other Non Operating Income (Expenses),-,-,-,-,-,"6,273,000",Financials in USD,Fiscal year is January - December
+EBT Excluding Unusual Items,"76,421,000","12,056,000","-94,616,000","-51,084,000","-26,503,000","-5,100,000",Financials in USD,Fiscal year is January - December
+Gain (Loss) on Sale of Assets,-,-,-,"-74,000","-20,000",-,Financials in USD,Fiscal year is January - December
+Pretax Income,"76,421,000","12,056,000","-94,616,000","-51,158,000","-26,523,000","-5,100,000",Financials in USD,Fiscal year is January - December
+Income Tax Expense,"21,470,000","18,741,000",-,-,-,-,Financials in USD,Fiscal year is January - December
+Net Income,"54,951,000","-6,685,000","-94,616,000","-51,158,000","-26,523,000","-5,100,000",Financials in USD,Fiscal year is January - December
+Net Income to Common,"54,951,000","-6,685,000","-94,616,000","-51,158,000","-26,523,000","-5,100,000",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Basic),"35,432,298","33,050,319","31,293,312","6,267,776","1,105,260","933,073",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Diluted),"35,520,875","33,050,319","31,293,312","6,267,776","1,105,260","933,073",Financials in USD,Fiscal year is January - December
+Shares Change (YoY),9.143%,5.615%,399.273%,467.086%,18.454%,-,Financials in USD,Fiscal year is January - December
+EPS (Basic),1.551,-0.202,-3.024,-8.162,-23.997,-5.466,Financials in USD,Fiscal year is January - December
+EPS (Diluted),1.551,-0.202,-3.024,-8.162,-24.000,-5.466,Financials in USD,Fiscal year is January - December
+Free Cash Flow,"-17,464,000","134,189,000","-96,673,000","-55,442,000","-27,888,000","-11,431,000",Financials in USD,Fiscal year is January - December
+Free Cash Flow Per Share,-0.492,4.060,-3.089,-8.846,-25.232,-12.251,Financials in USD,Fiscal year is January - December
+Gross Margin,44.157%,22.578%,-,-,-,-,Financials in USD,Fiscal year is January - December
+Operating Margin,26.847%,-2.451%,-,-,-,-,Financials in USD,Fiscal year is January - December
+Profit Margin,25.531%,-5.182%,-,-,-,-,Financials in USD,Fiscal year is January - December
+Free Cash Flow Margin,-8.114%,104.012%,-,-,-,-,Financials in USD,Fiscal year is January - December
+EBITDA,"61,300,000","-321,000","-95,353,000","-50,010,000","-26,341,000","-11,720,000",Financials in USD,Fiscal year is January - December
+EBITDA Margin,28.481%,-0.249%,-,-,-,-,Financials in USD,Fiscal year is January - December
+D&A For EBITDA,"3,517,000","2,841,000","1,895,000","1,117,000","326,000","104,000",Financials in USD,Fiscal year is January - December
+EBIT,"57,783,000","-3,162,000","-97,248,000","-51,127,000","-26,667,000","-11,824,000",Financials in USD,Fiscal year is January - December
+EBIT Margin,26.847%,-2.451%,-,-,-,-,Financials in USD,Fiscal year is January - December
+Effective Tax Rate,28.094%,155.450%,-,-,-,-,Financials in USD,Fiscal year is January - December

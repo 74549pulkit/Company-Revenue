@@ -8,7 +8,7 @@ Created on Wed Jan 8 12:21:10 2025
 An enhanced web scraper for extracting financial data from stockanalysis.com
 with improved error handling and structure.
 """
-import time
+
 import os
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -62,28 +62,6 @@ class FinancialDataScraper:
                     (os.path.exists(quarterly_excel) or os.path.exists(quarterly_csv))):
                 missing_tickers_link.append(link)
         
-        print(f"Found {len(missing_tickers_link)} missing tickers")
-        return missing_tickers_link
-
-
-    def get_missing_tickers_1(self):
-        """Identify tickers with missing financial data."""
-        df = pd.read_excel(self.input_file)
-        ticker_symbols = df.drop_duplicates().dropna()['Symbol','Link'].to_list()
-        
-        missing_tickers_link = []
-        for ticker, link in ticker_symbols:
-            annual_excel = os.path.join(self.output_folder, f"{ticker}_annual_financial_data.xlsx")
-            quarterly_excel = os.path.join(self.output_folder, f"{ticker}_quarterly_financial_data.xlsx")
-            
-            annual_csv = os.path.join(self.output_folder, f"{ticker}_annual_financial_data.csv")
-            quarterly_csv = os.path.join(self.output_folder, f"{ticker}_quarterly_financial_data.csv")
-    
-            # Check if both Excel and CSV files exist
-            if not ((os.path.exists(annual_excel) or os.path.exists(annual_csv)) and
-                    (os.path.exists(quarterly_excel) or os.path.exists(quarterly_csv))):
-                missing_tickers_link.append(link)
-                
         print(f"Found {len(missing_tickers_link)} missing tickers")
         return missing_tickers_link
 
@@ -241,7 +219,7 @@ def main():
     
     # Get missing tickers
     missing_tickers_link = scraper.get_missing_tickers()
-    missing_tickers_link=missing_tickers_link[:5]
+    # missing_tickers_link=missing_tickers_link[:5]
     # Process each missing ticker
     for link in missing_tickers_link:
         try:

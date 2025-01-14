@@ -1,0 +1,33 @@
+Fiscal Quarter,H2 2024,H1 2024,H2 2023,H1 2023,H2 2022,H1 2022,H2 2021,H1 2021,H2 2020,H1 2020,+2 Quarters,Currency,Fiscal_Year_period
+Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Jun '23 Jun 30, 2023","Dec '22 Dec 31, 2022","Jun '22 Jun 30, 2022","Dec '21 Dec 31, 2021","Jun '21 Jun 30, 2021","Dec '20 Dec 31, 2020","Jun '20 Jun 30, 2020","Dec '19 Dec 31, 2019",+2 Quarters,,
+Other Revenue,"2,118,561","1,900,724","1,530,493","2,385,840","2,764,327","2,359,198","2,456,274","1,883,325","-1,855,172","1,855,172",Upgrade,Financials in AUD,Fiscal year is July - June
+Revenue,"2,118,561","1,900,724","1,530,493","2,385,840","2,764,327","2,359,198","2,456,274","1,883,325","-1,855,172","1,855,172",Upgrade,Financials in AUD,Fiscal year is July - June
+Revenue Growth (YoY),38.423%,-20.333%,-44.634%,1.129%,12.541%,25.268%,-,1.518%,-,-23.546%,Upgrade,Financials in AUD,Fiscal year is July - June
+Cost of Revenue,"117,336","96,968","125,033","160,034","158,769","205,896","199,722","160,304","250,690","102,232",Upgrade,Financials in AUD,Fiscal year is July - June
+Gross Profit,"2,001,225","1,803,756","1,405,460","2,225,806","2,605,558","2,153,302","2,256,552","1,723,021","-2,105,862","1,752,940",Upgrade,Financials in AUD,Fiscal year is July - June
+"Selling, General & Admin","2,701,393","2,061,250","2,230,947","2,825,624","2,319,125","3,194,790","4,264,435","3,673,407","1,698,153","1,747,986",Upgrade,Financials in AUD,Fiscal year is July - June
+Research & Development,"12,283,013","6,361,034","5,434,409","7,764,174","7,984,234","6,761,542","6,477,007","5,806,841","4,351,405","5,747,034",Upgrade,Financials in AUD,Fiscal year is July - June
+Other Operating Expenses,"1,606","3,632","3,901","25,503",532,624,"2,207",20,"4,081","40,136",Upgrade,Financials in AUD,Fiscal year is July - June
+Operating Expenses,"14,986,012","8,425,916","7,652,107","10,615,301","10,303,891","9,956,956","10,677,849","9,480,268","6,041,623","7,535,156",Upgrade,Financials in AUD,Fiscal year is July - June
+Operating Income,"-12,984,787","-6,622,160","-6,246,647","-8,389,495","-7,698,333","-7,803,654","-8,421,297","-7,757,247","-8,147,485","-5,782,216",Upgrade,Financials in AUD,Fiscal year is July - June
+Interest & Investment Income,"150,019","118,400","5,057","11,379","1,154","1,350","14,123","6,553","2,984","14,133",Upgrade,Financials in AUD,Fiscal year is July - June
+Currency Exchange Gain (Loss),"264,575","-3,423","467,571","450,079","1,503,685","1,218,745","555,121","-852,232","205,230","127,825",Upgrade,Financials in AUD,Fiscal year is July - June
+EBT Excluding Unusual Items,"-12,570,193","-6,507,183","-5,774,019","-7,928,037","-6,193,494","-6,583,559","-7,852,053","-8,602,926","-7,939,271","-5,640,258",Upgrade,Financials in AUD,Fiscal year is July - June
+Other Unusual Items,-,-,-,-,-,-,"1,104,562","41,064","122,729",-,Upgrade,Financials in AUD,Fiscal year is July - June
+Pretax Income,"-12,570,193","-6,507,183","-5,774,019","-7,928,037","-6,193,494","-6,583,559","-6,747,491","-8,561,862","-7,816,542","-5,640,258",Upgrade,Financials in AUD,Fiscal year is July - June
+Income Tax Expense,"46,088",-,559,"103,900","70,008",-,-,-,-,-,Upgrade,Financials in AUD,Fiscal year is July - June
+Net Income,"-12,616,281","-6,507,183","-5,774,578","-8,031,937","-6,263,502","-6,583,559","-6,747,491","-8,561,862","-7,816,542","-5,640,258",Upgrade,Financials in AUD,Fiscal year is July - June
+Net Income to Common,"-12,616,281","-6,507,183","-5,774,578","-8,031,937","-6,263,502","-6,583,559","-6,747,491","-8,561,862","-7,816,542","-5,640,258",Upgrade,Financials in AUD,Fiscal year is July - June
+Shares Outstanding (Basic),"4,794,472,043","2,503,279,085","2,443,541,891","2,412,141,943","2,406,869,745","2,405,110,327","2,070,320,276","1,323,432,372","921,416,467","868,327,981",Upgrade,Financials in AUD,Fiscal year is July - June
+Shares Outstanding (Diluted),"4,794,472,043","2,503,279,085","2,443,541,891","2,412,141,943","2,406,869,745","2,405,110,327","2,070,320,276","1,323,432,372","921,416,467","868,327,981",Upgrade,Financials in AUD,Fiscal year is July - June
+Shares Change (YoY),96.210%,3.778%,1.524%,0.292%,16.256%,81.733%,124.689%,52.412%,32.625%,61.763%,Upgrade,Financials in AUD,Fiscal year is July - June
+EPS (Basic),-0.003,-0.003,-0.002,-0.003,-0.003,-0.003,-0.003,-0.006,-0.008,-0.006,Upgrade,Financials in AUD,Fiscal year is July - June
+EPS (Diluted),-0.003,-0.003,-0.002,-0.003,-0.003,-0.003,-0.003,-0.006,-0.008,-0.006,Upgrade,Financials in AUD,Fiscal year is July - June
+Free Cash Flow,"-8,110,884","-4,500,662","-10,113,650","-9,929,498","-3,751,808","-8,674,613","-10,007,741","-7,332,800","-6,854,741","-2,593,125",Upgrade,Financials in AUD,Fiscal year is July - June
+Free Cash Flow Per Share,-0.002,-0.002,-0.004,-0.004,-0.002,-0.004,-0.005,-0.006,-0.007,-0.003,Upgrade,Financials in AUD,Fiscal year is July - June
+Operating Margin,-612.906%,-348.402%,-408.146%,-351.637%,-278.489%,-330.776%,-342.848%,-411.891%,-,-311.681%,Upgrade,Financials in AUD,Fiscal year is July - June
+Profit Margin,-595.512%,-342.353%,-377.302%,-336.650%,-226.583%,-279.059%,-274.704%,-454.614%,-,-304.029%,Upgrade,Financials in AUD,Fiscal year is July - June
+Free Cash Flow Margin,-382.849%,-236.787%,-660.810%,-416.185%,-135.722%,-367.693%,-407.436%,-389.354%,-,-139.778%,Upgrade,Financials in AUD,Fiscal year is July - June
+EBITDA,"-12,967,798","-6,603,805","-6,228,465","-8,369,823","-7,687,087","-7,797,052","-8,415,052","-7,744,830","-8,135,887","-5,767,826",Upgrade,Financials in AUD,Fiscal year is July - June
+D&A For EBITDA,"16,989","18,355","18,182","19,672","11,246","6,602","6,245","12,417","11,598","14,390",Upgrade,Financials in AUD,Fiscal year is July - June
+EBIT,"-12,984,787","-6,622,160","-6,246,647","-8,389,495","-7,698,333","-7,803,654","-8,421,297","-7,757,247","-8,147,485","-5,782,216",Upgrade,Financials in AUD,Fiscal year is July - June

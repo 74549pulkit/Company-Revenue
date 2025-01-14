@@ -1,0 +1,34 @@
+Fiscal Year,TTM,FY 2023,FY 2022,FY 2021,FY 2020,Currency,Fiscal_Year_period
+Period Ending,"Jun '24 Jun 30, 2024","Dec '23 Dec 31, 2023","Dec '22 Dec 31, 2022","Dec '21 Dec 31, 2021","Dec '20 Dec 31, 2020",,
+Revenue,"5,000,000","5,000,000",-,"45,726,000",-,Financials in USD,Fiscal year is January - December
+Gross Profit,"5,000,000","5,000,000",-,"45,726,000",-,Financials in USD,Fiscal year is January - December
+"Selling, General & Admin","14,775,000","15,289,000","13,039,000","12,450,000","6,524,000",Financials in USD,Fiscal year is January - December
+Research & Development,"56,925,000","58,152,000","54,490,000","42,105,000","21,146,000",Financials in USD,Fiscal year is January - December
+Other Operating Expenses,"-2,031,000","-890,000","-259,000","-183,000","-50,000",Financials in USD,Fiscal year is January - December
+Operating Expenses,"69,669,000","72,551,000","67,270,000","54,372,000","27,620,000",Financials in USD,Fiscal year is January - December
+Operating Income,"-64,669,000","-67,551,000","-67,270,000","-8,646,000","-27,620,000",Financials in USD,Fiscal year is January - December
+Interest Expense,"-1,494,000","-791,000","-433,000","-1,337,000","-1,797,000",Financials in USD,Fiscal year is January - December
+Interest & Investment Income,"1,000","62,000","550,000","32,000","18,000",Financials in USD,Fiscal year is January - December
+Other Non Operating Income (Expenses),"12,740,000","-35,948,000","7,879,000","-46,767,000","-35,349,000",Financials in USD,Fiscal year is January - December
+EBT Excluding Unusual Items,"-53,422,000","-104,228,000","-59,274,000","-56,718,000","-64,748,000",Financials in USD,Fiscal year is January - December
+Gain (Loss) on Sale of Investments,-,-,"484,000","40,000",-,Financials in USD,Fiscal year is January - December
+Pretax Income,"-53,422,000","-104,228,000","-58,790,000","-56,678,000","-64,748,000",Financials in USD,Fiscal year is January - December
+Income Tax Expense,"643,000","643,000",-,-,-,Financials in USD,Fiscal year is January - December
+Net Income,"-54,065,000","-104,871,000","-58,790,000","-56,678,000","-64,748,000",Financials in USD,Fiscal year is January - December
+Net Income to Common,"-54,065,000","-104,871,000","-58,790,000","-56,678,000","-64,748,000",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Basic),"23,271,524","14,447,356","8,480,000","8,480,000","8,480,000",Financials in USD,Fiscal year is January - December
+Shares Outstanding (Diluted),"23,271,524","14,447,356","8,480,000","8,480,000","8,480,000",Financials in USD,Fiscal year is January - December
+Shares Change (YoY),174.428%,70.370%,-,-,-,Financials in USD,Fiscal year is January - December
+EPS (Basic),-2.323,-7.259,-6.933,-6.684,-7.635,Financials in USD,Fiscal year is January - December
+EPS (Diluted),-2.323,-7.259,-6.933,-6.684,-7.635,Financials in USD,Fiscal year is January - December
+Free Cash Flow,"-66,937,000","-56,852,000","-44,472,000","-4,052,000","-34,638,000",Financials in USD,Fiscal year is January - December
+Free Cash Flow Per Share,-2.876,-3.935,-5.244,-0.478,-4.085,Financials in USD,Fiscal year is January - December
+Gross Margin,100.000%,100.000%,-,100.000%,-,Financials in USD,Fiscal year is January - December
+Operating Margin,-1293.380%,-1351.020%,-,-18.908%,-,Financials in USD,Fiscal year is January - December
+Profit Margin,-1081.300%,-2097.420%,-,-123.951%,-,Financials in USD,Fiscal year is January - December
+Free Cash Flow Margin,-1338.740%,-1137.040%,-,-8.861%,-,Financials in USD,Fiscal year is January - December
+EBITDA,"-63,570,000","-66,313,000","-66,319,000","-7,769,000","-27,064,000",Financials in USD,Fiscal year is January - December
+EBITDA Margin,-,-,-,-16.990%,-,Financials in USD,Fiscal year is January - December
+D&A For EBITDA,"1,099,000","1,238,000","951,000","877,000","556,000",Financials in USD,Fiscal year is January - December
+EBIT,"-64,669,000","-67,551,000","-67,270,000","-8,646,000","-27,620,000",Financials in USD,Fiscal year is January - December
+EBIT Margin,-,-,-,-18.908%,-,Financials in USD,Fiscal year is January - December
